@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "React",
+        "text": "I have experience in developing dynamic and interactive user interfaces using React, a highly efficient JavaScript library for UI development",
+        "icon": "/icons/quill-pen-line.svg"
+    },
+    {
+        "id": 2,
+        "title": "JavaScript",
+        "text": "Proficient in JavaScript, a versatile programming language, to develop high-performance web applications and scripting solutions.",
+        "icon": "/icons/code-s-slash-line.svg"
+    },
+    {
+        "id": 3,
+        "title": "TypeScript",
+        "text": "Experienced in using TypeScript, a statically-typed JavaScript, to create scalable applications with improved maintainability and code quality.",
+        "icon": "/icons/smartphone-line.svg"
+    }
+]

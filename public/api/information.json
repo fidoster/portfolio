@@ -1,0 +1,28 @@
+{
+    "firstName": "Farhan",
+    "lastName": "Ahmed",
+    "fullName": "Farhan Ahmed",
+    "thumbImage": "/images/formal-image.png",
+    "largeImage": "/images/about-image.jpg",
+    "bio": "Highly motivated software developer with expertise in HTML & CSS, JavaScript, TypeScript, React, Bootstrap & Material UI, and GIT. Experienced in Agile and eager to grow professionally as a full stack developer",
+    "languages": [
+        "English",
+        "Finnish",
+        "Urdu"
+    ],
+    "address": "Tampere, FINLAND",
+    "freelance": "Available",
+    "socialAddress": {
+        "facebook": "https://www.facebook.com/farhan.tip/",
+        "github": "https://github.com/fidoster",
+        "linkedin": "https://www.linkedin.com/in/farhan-ahmed-dev/",
+        "dribbble": "https://dribbble.com/fidoster"
+    },
+    "phoneNumbers": [
+        "+012-3456-7891",
+        "+012-3456-7892"
+    ],
+    "emailAddress": [
+        "farhan.midsweden@gmail.com"
+    ]
+}

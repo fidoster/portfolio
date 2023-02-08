@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Damian Krakowski",
+        "meta": "Client - Flippa.com",
+        "givenreview": 5.0,
+        "image": "/images/user-avatar-1.jpg",
+        "text": "Very good communication. A pleasure doing business with. Highly recommended! Thank you."
+    },
+    {
+        "id": 2,
+        "name": "Anthony West",
+        "meta": "Client - Flippa.com",
+        "givenreview": 4.2,
+        "image": "/images/user-avatar-1.jpg",
+        "text": " Excellent communicating and extremely very helpful. Guided all the way through and helped me."
+    },
+    {
+        "id": 3,
+        "name": "Lori Bolene",
+        "meta": "Client - Flippa.com",
+        "givenreview": 4.2,
+        "image": "/images/user-avatar-1.jpg",
+        "text": "Excellent seller! Went above and beyond to help me get set up. Highly recommended!"
+    },
+    {
+      "id": 4,
+      "name": "Lewis Anderson",
+      "meta": "Client - Flippa.com",
+      "givenreview": 4.2,
+      "image": "/images/user-avatar-1.jpg",
+      "text": "A fantastic seller who exceeded expectations and provided assistance. Highly recommended!"
+    }
+]

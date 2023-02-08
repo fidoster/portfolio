@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Website",
+        "subtitle": "IoT Consultency Website",
+        "coverimage": "/images/portfolios/portfolio-image-1.jpg",
+        "imagegallery": ["/images/portfolios/portfolio-image-1.jpg"],
+        "videogallery": false,
+        "url": "https://fidoster.github.io/FarhanIoT/",
+        "filters": ["html"]
+    },
+    {
+      "id": 2,
+      "title": "Website",
+      "subtitle": "Igloo Hotel",
+      "coverimage": "/images/portfolios/portfolio-image-2.jpg",
+      "imagegallery": ["/images/portfolios/portfolio-image-2.jpg"],
+      "videogallery": false,
+      "url": "https://fidoster.github.io/IglooHotelWebsite/index.html",
+      "filters": ["html"]
+    },
+    {
+      "id": 3,
+      "title": "My Coazh Project",
+      "subtitle": "Team Season Statistics",
+      "coverimage": "/images/portfolios/portfolio-image-3.jpg",
+      "imagegallery": ["/images/portfolios/portfolio-image-3.jpg"],
+      "videogallery": false,
+      "url": false,
+      "filters": ["react"]
+    },
+    {
+        "id": 4,
+        "title": "My Coazh Project",
+        "subtitle": "Home Page Component",
+        "coverimage": "/images/portfolios/portfolio-image-4.jpg",
+        "imagegallery": ["/images/portfolios/portfolio-image-4.jpg"],
+        "videogallery": false,
+        "url": false,
+        "filters": ["react"]
+    },
+    {
+        "id": 5,
+        "title": "My Coazh Project",
+        "subtitle": "Team Player Statistics",
+        "coverimage": "/images/portfolios/portfolio-image-5.jpg",
+        "imagegallery": ["/images/portfolios/portfolio-image-5.jpg"],
+        "videogallery": false,
+        "url": false,
+        "filters": ["react"]
+    },
+    {
+      "id": 6,
+      "title": "PyneCone Framework App",
+      "subtitle": "Joke of the day",
+      "coverimage": "/images/portfolios/portfolio-image-6.jpg",
+      "imagegallery": ["/images/portfolios/portfolio-image-6.jpg"],
+      "videogallery": false,
+      "url": "https://github.com/fidoster/Pynecone-app",
+      "filters": ["react", "python"]
+    },
+    {
+      "id": 7,
+      "title": "My Coazh Project",
+      "subtitle": "Individual Player Statistics",
+      "coverimage": "/images/portfolios/portfolio-image-7.jpg",
+      "imagegallery": ["/images/portfolios/portfolio-image-7.jpg"],
+      "videogallery": false,
+      "url": false,
+      "filters": ["react"]
+    }
+]

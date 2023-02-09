@@ -19,7 +19,7 @@ const Navigation = () => {
             </Link>
           ) : (
             <ScrollLink
-              activeClass="!text-primary"
+              activeClass="text-primary"
               to="section-home"
               spy={true}
               smooth="easeInQuad"
@@ -42,7 +42,7 @@ const Navigation = () => {
             </Link>
           ) : (
             <ScrollLink
-              activeClass="!text-primary"
+              activeClass="text-primary"
               to="section-about"
               spy={true}
               smooth="easeInQuad"
@@ -65,7 +65,7 @@ const Navigation = () => {
             </Link>
           ) : (
             <ScrollLink
-              activeClass="!text-primary"
+              activeClass="text-primary"
               to="section-resume"
               spy={true}
               smooth="easeInQuad"
@@ -88,7 +88,7 @@ const Navigation = () => {
             </Link>
           ) : (
             <ScrollLink
-              activeClass="!text-primary"
+              activeClass="text-primary"
               to="section-portfolios"
               spy={true}
               smooth="easeInQuad"
@@ -111,7 +111,7 @@ const Navigation = () => {
             </Link>
           ) : (
             <ScrollLink
-              activeClass="!text-primary"
+              activeClass="text-primary"
               to="section-blog"
               spy={true}
               smooth="easeInQuad"
@@ -134,7 +134,7 @@ const Navigation = () => {
             </Link>
           ) : (
             <ScrollLink
-              activeClass="!text-primary"
+              activeClass="text-primary"
               to="section-contact"
               spy={true}
               smooth="easeInQuad"

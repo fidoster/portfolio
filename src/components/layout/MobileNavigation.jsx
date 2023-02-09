@@ -25,7 +25,7 @@ const MobileNavigation = ({ changeState }) => {
         <ul className="mb-0 list-none pl-0">
           <li className="block">
             {checkroute ? (
-              <Link href="/homepage2">
+              <Link href="/kuka">
                 <a
                   className="group relative inline-block cursor-pointer py-2 text-lg uppercase tracking-wider text-heading before:text-primary"
                   onClick={() => handleClick()}

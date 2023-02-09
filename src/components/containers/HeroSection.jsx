@@ -60,7 +60,7 @@ const HeroSection = ({ blurred, scroll = true, typed = true }) => {
                 variants={childrenAnimation}
                 className="mb-5 text-heading"
               >
-                <span className="block sm:inline">Hi, I am a</span>{" "}
+                <span className="block sm:inline">Hi, I am </span>{" "}
                 {typed ? (
                   <ReactTyped
                     loop
@@ -69,8 +69,8 @@ const HeroSection = ({ blurred, scroll = true, typed = true }) => {
                     backDelay={2000}
                     strings={[
                       data.fullName,
-                      "Full-stack Developer",
-                      "Web Designer",
+                      "a Full-stack Developer",
+                      "a Web Designer",
                     ]}
                     className="text-primary"
                   />

@@ -5,7 +5,7 @@ import { useRouter } from "next/router";
 const Navigation = () => {
   const router = useRouter();
   const checkroute =
-    router.route !== "/homepage2" && router.route !== "/homepage3";
+    router.route !== "/homepage3" && router.route !== "/homepage3";
 
   return (
     <nav className="flex-grow px-5 text-center">
@@ -58,7 +58,7 @@ const Navigation = () => {
         </li>
         <li className="inline-block align-middle">
           {checkroute ? (
-            <Link href="/homepage2">
+            <Link href="/homepage3">
               <a className="group relative inline-block cursor-pointer py-6 text-sm font-medium uppercase tracking-wider text-heading before:text-primary">
                 Resume
                 <span className="absolute left-0 top-auto bottom-5 inline-block h-px w-full origin-top-right scale-0 bg-primary align-middle transition-transform duration-500 group-hover:origin-top-left group-hover:scale-100"></span>
@@ -81,7 +81,7 @@ const Navigation = () => {
         </li>
         <li className="inline-block align-middle">
           {checkroute ? (
-            <Link href="/homepage2">
+            <Link href="/homepage3">
               <a className="group relative inline-block cursor-pointer py-6 text-sm font-medium uppercase tracking-wider text-heading before:text-primary">
                 Works
                 <span className="absolute left-0 top-auto bottom-5 inline-block h-px w-full origin-top-right scale-0 bg-primary align-middle transition-transform duration-500 group-hover:origin-top-left group-hover:scale-100"></span>
@@ -104,9 +104,9 @@ const Navigation = () => {
         </li>
         <li className="inline-block align-middle">
           {checkroute ? (
-            <Link href="/homepage2">
+            <Link href="/homepage3">
               <a className="group relative inline-block cursor-pointer py-6 text-sm font-medium uppercase tracking-wider text-heading before:text-primary">
-                Works
+                Blog
                 <span className="absolute left-0 top-auto bottom-5 inline-block h-px w-full origin-top-right scale-0 bg-primary align-middle transition-transform duration-500 group-hover:origin-top-left group-hover:scale-100"></span>
               </a>
             </Link>

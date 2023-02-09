@@ -60,7 +60,7 @@ const HeroSection = ({ blurred, scroll = true, typed = true }) => {
                 variants={childrenAnimation}
                 className="mb-5 text-heading"
               >
-                <span className="block sm:inline">Hi, I am</span>{" "}
+                <span className="block sm:inline">Hi, I am a</span>{" "}
                 {typed ? (
                   <ReactTyped
                     loop

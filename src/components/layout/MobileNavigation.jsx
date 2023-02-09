@@ -5,9 +5,7 @@ import { RiCloseLine } from "react-icons/ri";
 
 const MobileNavigation = ({ changeState }) => {
   const router = useRouter();
-
-  const checkroute =
-    router.route !== "/homepage3" && router.route !== "/homepage3";
+  const checkroute = router.route === "/homepage3";
 
   const handleClick = () => {
     changeState(false);
@@ -25,7 +23,7 @@ const MobileNavigation = ({ changeState }) => {
         <ul className="mb-0 list-none pl-0">
           <li className="block">
             {checkroute ? (
-              <Link href="/homepage3">
+              <Link href="/">
                 <a
                   className="group relative inline-block cursor-pointer py-2 text-lg uppercase tracking-wider text-heading before:text-primary"
                   onClick={() => handleClick()}
@@ -52,7 +50,7 @@ const MobileNavigation = ({ changeState }) => {
           </li>
           <li className="block">
             {checkroute ? (
-              <Link href="/homepage3">
+              <Link href="/">
                 <a
                   className="group relative inline-block cursor-pointer py-2 text-lg uppercase tracking-wider text-heading before:text-primary"
                   onClick={() => handleClick()}
@@ -79,7 +77,7 @@ const MobileNavigation = ({ changeState }) => {
           </li>
           <li className="block">
             {checkroute ? (
-              <Link href="/homepage3">
+              <Link href="/">
                 <a
                   className="group relative inline-block cursor-pointer py-2 text-lg uppercase tracking-wider text-heading before:text-primary"
                   onClick={() => handleClick()}
@@ -106,7 +104,7 @@ const MobileNavigation = ({ changeState }) => {
           </li>
           <li className="block">
             {checkroute ? (
-              <Link href="/homepage3">
+              <Link href="/">
                 <a
                   className="group relative inline-block cursor-pointer py-2 text-lg uppercase tracking-wider text-heading before:text-primary"
                   onClick={() => handleClick()}
@@ -144,7 +142,7 @@ const MobileNavigation = ({ changeState }) => {
           </li>
           <li className="block">
             {checkroute ? (
-              <Link href="/homepage3">
+              <Link href="/">
                 <a
                   className="group relative inline-block cursor-pointer py-2 text-lg uppercase tracking-wider text-heading before:text-primary"
                   onClick={() => handleClick()}

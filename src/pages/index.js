@@ -100,19 +100,7 @@ const Homepage1 = ({ posts }) => {
         </div>
       </Section>
       {/* End Reviews Section */}
-
-      {/* Start Blog Section */}
-      <Section
-        name="section-blog"
-        className="news-section pt-24 lg:pt-28 xl:pt-32"
-      >
-        <div className="container mx-auto">
-          <SectionHeading title="Latest Blogs" watermark="Blogs" />
-          <BlogSection posts={posts} />
-        </div>
-      </Section>
-      {/* End Blog Section */}
-
+      
       {/* Start Contact Section */}
       <Section
         name="section-contact"

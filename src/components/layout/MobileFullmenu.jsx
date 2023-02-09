@@ -60,7 +60,7 @@ const MobileFullmenu = ({ fullMenuHandler }) => {
               </Link>
             </li>
             <li className="block">
-              <Link href="/posts/1">
+              <Link href="/posts">
                 <a
                   className="group relative inline-block cursor-pointer overflow-hidden py-2 text-lg uppercase tracking-wider text-heading before:text-primary"
                   onClick={(e) => fullMenuHandler(false)}
@@ -89,7 +89,7 @@ const MobileFullmenu = ({ fullMenuHandler }) => {
           </span>
           <Link href="/">
             <a className="font-medium text-heading no-underline hover:text-primary">
-              NuclearThemes
+              Farhan.fi
             </a>
           </Link>
         </p>

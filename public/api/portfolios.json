@@ -68,5 +68,15 @@
       "videogallery": false,
       "url": false,
       "filters": ["react","node"]
+    },
+    {
+      "id": 2,
+      "title": "Delivery Fee Calculator",
+      "subtitle": "TypeScript,React and Material-UI",
+      "coverimage": "/images/portfolios/portfolio-image-8.jpg",
+      "imagegallery": ["/images/portfolios/portfolio-image-8.jpg"],
+      "videogallery": false,
+      "url": false,
+      "filters": ["react", "typescript"]
     }
 ]

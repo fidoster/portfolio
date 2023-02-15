@@ -10,7 +10,7 @@
         "filters": ["html"]
     },
     {
-      "id": 2,
+      "id": 8,
       "title": "Website",
       "subtitle": "Igloo Hotel",
       "coverimage": "/images/portfolios/portfolio-image-2.jpg",
@@ -72,7 +72,7 @@
     {
       "id": 2,
       "title": "Delivery Fee Calculator",
-      "subtitle": "TypeScript,React and Material-UI",
+      "subtitle": "TypeScript, React and Material-UI",
       "coverimage": "/images/portfolios/portfolio-image-8.jpg",
       "imagegallery": ["/images/portfolios/portfolio-image-8.jpg"],
       "videogallery": false,

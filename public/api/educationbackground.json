@@ -9,21 +9,14 @@
   {
     "id": 2,
     "title": "Cloud Certifications",
-    "meta": "Azure and Oracle Cloud Certifications",
-    "text": "I have earned several cloud certifications, including Azure AZ-900 Cloud Certification, Azure AI-900 Azure AI Fundamentals, Oracle Cloud Infrastructure 2023 Certified Developer Professional, Oracle Cloud Infrastructure 2023 Certified Foundations Associate, Oracle Cloud Data Management Certified Foundations Associate, and Oracle Cloud Infrastructure 2023 Certified DevOps Professional.",
-    "year": "2023 - Present"
+    "meta": "These certifications validate my expertise in cloud technologies, specifically Azure and Oracle. My credentials include: Azure AZ-900, Azure AI-900, Oracle Cloud Infrastructure Certified Developer Professional, Oracle Cloud Infrastructure Certified Foundations Associate, Oracle Cloud Data Management Certified Foundations Associate, and Oracle Cloud Infrastructure Certified DevOps Professional.",
+    "text": "Azure AZ-900: <a href='https://learn.microsoft.com/en-us/users/farhanahmed-2347/credentials/54e0c4a2c98b405f' target='_blank' rel='noopener noreferrer'>View Certification</a>, Azure AI-900: <a href='https://learn.microsoft.com/en-us/users/farhanahmed-2347/credentials/f322f8c20cc4bd22' target='_blank' rel='noopener noreferrer'>View Certification</a>, Oracle Cloud Infrastructure Certified Developer Professional: <a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=33AFC856F6EF3690FB9FB7E43D0F62FFEEADE7361D929D1A175CD6D969A85654' target='_blank' rel='noopener noreferrer'>View Certification</a>, Oracle Cloud Infrastructure Certified Foundations Associate: <a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=094CF281A51C290C7C9A8993F7E73180BF91AF960148D507A0FF1E2063B59405' target='_blank' rel='noopener noreferrer'>View Certification</a>, Oracle Cloud Data Management Certified Foundations Associate: <a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=1666276332B163EC00B4C2D54AE5B1F4A022D053853F8C3A4D14EC5DA0E73A33' target='_blank' rel='noopener noreferrer'>View Certification</a>, Oracle Cloud Infrastructure Certified DevOps Professional: <a href='https://catalog-education.oracle.com/ords/certview/sharebadge?id=2149D1EB8AFA32ED5C8B515F42A24F1559739B50042CF290245BF1196A2156A8' target='_blank' rel='noopener noreferrer'>View Certification</a>.",
+    "year": "2023 - 2024"
   },
   {
     "id": 3,
-    "title": "Coding and Finnish Language",
-    "meta": "BearIT Oy",
-    "text": "This Programming and Finnish language course helped me to improve my skills and gain real-life work experience.",
-    "year": "2022 - 2022"
-  },
-  {
-    "id": 4,
     "title": "Python Programming Course",
-    "meta": "Helsinki University",
+    "meta": "Helsinki University.",
     "text": "Fundamentals of Python programming, including data types, variables, control structures, functions, and modules. The course provided a strong foundation for further learning and development in the Python language.",
     "year": "2021 - 2021"
   }

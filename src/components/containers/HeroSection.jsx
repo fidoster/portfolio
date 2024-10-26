@@ -71,7 +71,6 @@ const HeroSection = ({ blurred, scroll = true, typed = true }) => {
                       data.fullName,
                       "a Full-stack Developer",
                       "a Web Designer",
-                      "Azure & Oracle Cloud Certified",
                     ]}
                     className="text-primary"
                   />
@@ -79,6 +78,7 @@ const HeroSection = ({ blurred, scroll = true, typed = true }) => {
                   <span className="text-primary">{data.fullName}</span>
                 )}
               </motion.h1>
+
               <motion.p
                 initial="hidden"
                 whileInView="visible"
@@ -89,6 +89,26 @@ const HeroSection = ({ blurred, scroll = true, typed = true }) => {
               >
                 {data.bio}
               </motion.p>
+
+              {/* Add a new section for certifications */}
+              <motion.div
+                initial="hidden"
+                whileInView="visible"
+                viewport={{ once: true }}
+                transition={{ duration: 0.4, delay: 0.8 }}
+                variants={childrenAnimation}
+                className="lead mb-5 text-primary"
+              >
+                <ReactTyped
+                  loop
+                  typeSpeed={100}
+                  backSpeed={20}
+                  backDelay={2000}
+                  strings={["Azure Certified", "Oracle Cloud Certified"]}
+                  className="text-primary"
+                />
+              </motion.div>
+
               <motion.div
                 initial="hidden"
                 whileInView="visible"

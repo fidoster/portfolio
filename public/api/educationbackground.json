@@ -8,15 +8,22 @@
   },
   {
     "id": 2,
-    "title": "Coding and Finnish language",
+    "title": "Cloud Certifications",
+    "meta": "Azure and Oracle Cloud Certifications",
+    "text": "I have earned several cloud certifications, including Azure AZ-900 Cloud Certification, Azure AI-900 Azure AI Fundamentals, Oracle Cloud Infrastructure 2023 Certified Developer Professional, Oracle Cloud Infrastructure 2023 Certified Foundations Associate, Oracle Cloud Data Management Certified Foundations Associate, and Oracle Cloud Infrastructure 2023 Certified DevOps Professional.",
+    "year": "2023 - Present"
+  },
+  {
+    "id": 3,
+    "title": "Coding and Finnish Language",
     "meta": "BearIT Oy",
     "text": "This Programming and Finnish language course helped me to improve my skills and gain real-life work experience.",
     "year": "2022 - 2022"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Python Programming Course",
-    "meta": "Helsinki University.",
+    "meta": "Helsinki University",
     "text": "Fundamentals of Python programming, including data types, variables, control structures, functions, and modules. The course provided a strong foundation for further learning and development in the Python language.",
     "year": "2021 - 2021"
   }

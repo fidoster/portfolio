@@ -1,23 +1,30 @@
 [
-    {
-        "id": 1,
-        "title": "Internship",
-        "meta": "Toinennäkymä Oy",
-        "text": "I was in a team developing an app to assist football coaches in better management of data. We worked on a functional web app with important features such as focused football match analysis and report, practical and intuitive UI design and engaging visualizations",
-        "year": "2022 - 2022"
-    },
-    {
-        "id": 2,
-        "title": "International Smart Industry",
-        "meta": "Tampere University of Applied Sciences",
-        "text": "Took courses in different areas such as Smart Industry Information Systems and digitalisation exercises in the International Smart Industry to improve my competence.",
-        "year": "2021 - 2022"
-    },
-    {
-        "id": 3,
-        "title": "Website Seller",
-        "meta": "Flippa.com",
-        "text": "Developing and selling WordPress based websites 100 % positive feedback with 178 transactions totaling $16,417",
-        "year": "2014 - Present"
-    }
+  {
+    "id": 1,
+    "title": "Full Stack Developer",
+    "meta": "Kyky Today Oy",
+    "text": "Gained hands-on experience in developing and maintaining their freelancing web application. Implemented new features, enhanced UI/UX, and troubleshot issues using React, Firebase, and JavaScript.",
+    "year": "Jan 2024 - Jun 2024"
+  },
+  {
+    "id": 2,
+    "title": "Internship",
+    "meta": "Toinennäkymä Oy",
+    "text": "I was in a team developing an app to assist football coaches in better management of data. We worked on a functional web app with features such as focused football match analysis, practical UI design, and engaging visualizations.",
+    "year": "2022 - 2022"
+  },
+  {
+    "id": 3,
+    "title": "International Smart Industry",
+    "meta": "Tampere University of Applied Sciences",
+    "text": "Took courses in various areas, such as Smart Industry Information Systems and digitalization exercises in the International Smart Industry program to enhance my competence.",
+    "year": "2021 - 2022"
+  },
+  {
+    "id": 4,
+    "title": "Website Seller",
+    "meta": "Flippa.com",
+    "text": "Developed and sold WordPress-based websites with 100% positive feedback, completing 178 transactions totaling $16,417.",
+    "year": "2014 - Present"
+  }
 ]

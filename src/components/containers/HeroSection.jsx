@@ -70,7 +70,7 @@ const HeroSection = ({ blurred, scroll = true, typed = true }) => {
                     strings={[
                       data.fullName,
                       "a Full-stack Developer",
-                      "Azure Certified",
+                      "Azure Cloud Certified",
                       "Oracle Cloud Certified",
                       "a Web Designer",
                     ]}

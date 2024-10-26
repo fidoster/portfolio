@@ -13,8 +13,8 @@
     },
     {
         "id": 3,
-        "title": "TypeScript",
-        "text": "Experienced in using TypeScript, a statically-typed JavaScript, to create scalable applications with improved maintainability and code quality.",
+        "title": "Cloud",
+        "text": "Experienced in leveraging cloud technologies to build scalable, reliable, and efficient applications. Proficient in utilizing Azure services and Oracle Cloud infrastructure to enhance deployment and operational efficiency.",
         "icon": "/icons/smartphone-line.svg"
     }
 ]

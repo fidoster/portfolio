@@ -59,7 +59,7 @@ const ContactSection = () => {
               </span>
               <div className="content">
                 <h5 className="mb-2">Located in</h5>
-                <p className="mb-0">Tampere, FINLAND</p>
+                <p className="mb-0">Kerava, FINLAND</p>
               </div>
             </div>
           </div>

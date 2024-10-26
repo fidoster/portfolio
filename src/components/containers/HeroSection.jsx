@@ -71,6 +71,7 @@ const HeroSection = ({ blurred, scroll = true, typed = true }) => {
                       data.fullName,
                       "a Full-stack Developer",
                       "a Web Designer",
+                      "Azure & Oracle Cloud Certified",
                     ]}
                     className="text-primary"
                   />
